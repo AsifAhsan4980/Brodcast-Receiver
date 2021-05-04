@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="charging">Charging</string>
+    <string name="perchentage">Perchentage</string>
+    <string name="_50">50%</string>
+    <string name="tap_brodcast">Tap Brodcast</string>
+</resources>
